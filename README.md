@@ -1,2 +1,2 @@
-# Un tour de tour
-Will be adding interesting cycling metric explorations into this repository 🚲
+# tour de tour
+Analysis and exploration of cycling metrics from the Tour de France editions 1903-2018 🚲
